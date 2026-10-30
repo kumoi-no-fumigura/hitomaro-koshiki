@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hitomaro-koshiki",
  "yomi": "かきのもとこうしき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "講式",
+  "era": "未詳",
+  "author": "未詳",
+  "desc": "柿本人麿の画像を掲げて和歌の先霊を供養する法会の次第を記した講式。表白で人麿を和語の大祖とたたえ、古歌を歌頌として唱える。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -72,6 +77,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
